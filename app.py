@@ -104,7 +104,7 @@ while True:
     # EXIT
     # -----------------------------------
     if user_input.lower() == "exit":
-        print(f"\nMeethra: Goodbye {user_name}! 👋")
+        print(f"\nMeethra: Goodbye {user_name}! ")
         break
 
     # -----------------------------------
